@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+packet_log_*.txt
+*.pcap
+*.pcapng
+.venv/
+venv/
+.vscode/
+.idea/
