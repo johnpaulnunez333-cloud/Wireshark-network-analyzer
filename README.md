@@ -6,9 +6,9 @@ Works on **Windows, Linux, Kali, and Termux (Android)**.
 
 ## Screenshots
 
-![Wireshark Network Analyzer menu](screenshot-1.jpg)
+![Wireshark Network Analyzer menu](Screenshot_20261109_101507.jpg)
 
-![Wireshark Network Analyzer running on Kali Linux](screenshot-2.jpg)
+![Wireshark Network Analyzer running on Kali Linux](Screenshot_20261109_101515.jpg)
 
 ## Features
 
