@@ -4,6 +4,12 @@ A colorful terminal front-end for the real **Wireshark engine (TShark)**. It cap
 
 Works on **Windows, Linux, Kali, and Termux (Android)**.
 
+## Screenshots
+
+![Wireshark Network Analyzer menu](screenshot-1.jpg)
+
+![Wireshark Network Analyzer running on Kali Linux](screenshot-2.jpg)
+
 ## Features
 
 - Big gradient `WIRESHARK` banner
